@@ -1,0 +1,35 @@
+h1{
+    color:white;
+    text-align: center;
+}
+
+h4{
+    color:chocolate;
+}
+body{
+    background-color: #fdaebb;
+    margin: 2%;
+}
+p{
+    color: maroon;
+    font-family: 'Times New Roman', Times, serif;
+}
+table{
+    border-color: white;
+    border-radius: 5px;
+    margin:auto;
+}
+b{
+    color: red;
+}
+
+.selectionBox{
+       margin:auto;
+       background-color: aliceblue;
+       width: 500px;
+       padding: 5em;
+       border-radius: 5em
+}
+p{
+    color:aliceblue
+}
